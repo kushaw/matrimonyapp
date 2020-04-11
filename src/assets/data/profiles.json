@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "name": "kusha",
+      "surname": "Waghamre",
+      "designation": "Assistant Manager",
+      "education": "BA in Enterprenual Development",
+      "profilePic": "../assets/img/profile_1.jpg"
+    },
+    {
+      "name": "Lava",
+      "surname": "Waghamre",
+      "designation": "Architect",
+      "education": "B-Com in Enterprenual Development",
+      "profilePic": "../assets/img/profile_2.jpg"
+    }
+  ]
+}
